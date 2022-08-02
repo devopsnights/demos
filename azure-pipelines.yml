@@ -11,6 +11,3 @@ steps:
 
 - pwsh: |
     Write-Host "Running with pwsh shortcut!"
-
-- script: |
-    Write-Host "Running with script shortcut!"
